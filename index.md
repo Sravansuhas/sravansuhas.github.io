@@ -32,6 +32,7 @@
 
     <!-- Custom styles for this template -->
     <link href="style.css" rel="stylesheet" />
+
   </head>
   <body class="text-center">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
@@ -115,5 +116,6 @@
         </div>
       </footer>
     </div>
+
   </body>
 </html>
